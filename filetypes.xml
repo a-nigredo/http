@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="scalafmt" type="PLAIN_TEXT" />
+      <mapping pattern=".credentials" type="PLAIN_TEXT" />
+      <mapping pattern="credentials" type="PLAIN_TEXT" />
+      <mapping ext="rsa" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
