@@ -1,0 +1,10 @@
+[package]
+name = "curl"
+version = "0.1.0"
+authors = ["Andrii Ivanov <a.nigredo@gmail.com>"]
+
+[dependencies]
+argparse = "0.2.1"
+futures = "0.1"
+hyper = "0.11"
+tokio-core = "0.1"
