@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="scalafmt" type="PLAIN_TEXT" />
-      <mapping pattern=".credentials" type="PLAIN_TEXT" />
-      <mapping pattern=".part-00000-c43ce6c7-5481-4ebf-b666-f861e79788b4-c000.snappy.parquet.crc" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".part-00000-c43ce6c7-5481-4ebf-b666-f861e79788b4-c000.snappy.parquet.crc" type="PLAIN_TEXT" />
+      <mapping pattern=".credentials" type="PLAIN_TEXT" />
       <mapping ext="rsa" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
     </extensionMap>
